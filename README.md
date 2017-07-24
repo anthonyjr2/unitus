@@ -18,9 +18,9 @@ Every aspect of this project will be driven by the community, for the community.
 
 * _Modern Wallet_ - Forked from Bitcoin Core 0.9.3, with significant influence from Myriadcoin (Multi-Algorithm) and Dogecoin (Merge-Mining)
 * _Multi-Algorithm_:
-  * Blake256 (8-round)
+  * Lyra2RE2
   * Skein
-  * Qubit
+  * Argon2d
   * X11
   * Yescrypt
 * All algorithms can be merge-mined (AuxPoW)
@@ -38,5 +38,4 @@ Every aspect of this project will be driven by the community, for the community.
 * No free transactions - minimum fee is 0.01 UIS
 * Peer-to-Peer Port: 50603
 * RPC Port: 50604
-
 
